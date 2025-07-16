@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.a1 {
+  color: white;
+  text-decoration: none;
+  margin: 0 16px;
+
+}
+html, body {
+  height: 100%;
+
+  overscroll-behavior: none; 
+
+}
+ /* fml took long to figure this one out */
