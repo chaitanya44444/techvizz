@@ -8,9 +8,9 @@ const Bg = ({ children }) => {
   let background;
 
   if (path === '/' ) {
-    background = 'radial-gradient(ellipse at top, #FEAD13 20%, #14142D 60%, #ffffff 100%)'; /* for now radient */
+    background = '#14142D';
   } else{
-    background = '#14142D'; 
+    background ='radial-gradient(ellipse at top, #FEAD13 20%, #14142D 60%, #ffffff 100%)'; 
   } 
 
   return (
