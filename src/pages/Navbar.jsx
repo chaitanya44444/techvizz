@@ -1,5 +1,4 @@
 import React from 'react';
-import '/Users/apple/Documents/Techvizz/techvizz/src/App.css'
 
 const Navbar = () => {
   return (
