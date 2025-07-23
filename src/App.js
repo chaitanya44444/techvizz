@@ -26,8 +26,19 @@ function App() {
     
     
   } />
-     
+
+  
         <Route path="/About" element={<About />} />
+    <Route path="*" element={
+    <>
+  <Textp1 />
+ 
+      
+    </>
+    
+    
+  } />
+
       
 </Routes>
 </Bg>
