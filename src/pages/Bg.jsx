@@ -16,7 +16,7 @@ const Bg = ({ children }) => {
   return (
     <section
       style={{
-        background: background,
+        background: bg,//fml
         minHeight: "100vh",
 
         color: 'white',
